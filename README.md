@@ -1,6 +1,5 @@
 ## RenyiEntropy-thresholding-for-particle-analysis
-An image processing algorithm that processes all images in a given MATLAB working directory by means of the Renyi entropy thresholding method to analyze particles to be found in each image.
-
+This software package comprises an image processing algorithm that utilizes the Renyi entropy thresholding method to analyze particles present in images. Specifically, the algorithm is designed to process all images contained within a designated MATLAB working directory.
 
 ## Overview
 This MATLAB code implements an image processing algorithm that applies the Renyi entropy thresholding method to analyze particles within images. Specifically, the algorithm processes all images located in a specified MATLAB working directory.
