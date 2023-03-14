@@ -23,6 +23,12 @@ Open the MATLAB code in MATLAB.
 Run the MATLAB code.
 The algorithm will process each image in the MATLAB working directory and output the results of particle analysis for each image in an Excel file.
 
+## Extra
+The repository provides a different jpg images so that the interested user can test the algorithm.
+
+## Limitations
+The algorithm is designed to exclusively process the specific image format included in this repository. Moreover, an 8mm circle is utilized as a reference for length measurements in subsequent image analyses. Additionally, the code implementation is sensitive to image dimensions.
+
 ## Troubleshooting
 If the code fails to execute, try the following:
 
